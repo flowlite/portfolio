@@ -28,7 +28,7 @@ RxJava2, Retrofit, Realm ORM, Glide, Firebase Messaging, Broadcast receiver, Cha
 > - https://play.google.com/store/apps/details?id=id.my.xtend.complaint (Listing)
 
 ---
-**MyXtend** (ERP app for employees side) 
+**MyXtend** (ERP & Vehicle management app for employees & admin side) 
 
 Developed with Flutter
 
@@ -71,7 +71,7 @@ MVP Architecture, Glide, Realm ORM, Firebase Messaging, Firebase Crashlytics, et
 **Taaruf Lalu Nikah** (Islamic matchmaking for marriage purpose. Volunteering as Flutter Developer)
 
 Components:
-Scoped Model, Firebase RemoteConfig, Dio, Google Sign-In, etc.
+Provider, Scoped Model, Firebase RemoteConfig, Dio, Google Sign-In, etc.
 
 > links: 
 > - https://play.google.com/store/apps/details?id=com.wordpress.vyatri.tlnapp (Listing)
