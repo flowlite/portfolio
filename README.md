@@ -2,7 +2,7 @@
 # Portfolio links
 My Portfolio (as of 2023)
 
-# From XTEND Integrasi Indonesia:
+# From XTEND Integrasi Indonesia (2019-2021):
 **ATAC** (Task app for workers with location tracking feature)
 
 Developed with Android Native (Kotlin)
@@ -53,7 +53,7 @@ MobX, Provider, GetX (Routing), GetIt, Firebase Messaging, Chopper, http (networ
 > - https://drive.google.com/drive/folders/1Tgy2zUcl0DSykfIzyng_tMYu2c3_Fwac?usp=sharing
 > - https://play.google.com/store/apps/details?id=id.my.xtend.emeeting (Listing)
 
-# Freelance
+# Freelance (2020-now)
 
 **Jaket Distro Medan** (Shirt store point of sales app for admins)
 
